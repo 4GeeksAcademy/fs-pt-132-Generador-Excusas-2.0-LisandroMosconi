@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(135deg, #98b455, #8caee92c);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.excuse-card {
+    background: linear-gradient(145deg, #ffffff, #e0e0e0);
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem rgba(41, 40, 40, 0.3);
+    max-width: 35rem;
+    text-align: center;
+}
+
+#excuse {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #333;
+    min-height: 3.5rem;
+}
